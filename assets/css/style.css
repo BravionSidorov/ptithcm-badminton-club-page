@@ -267,7 +267,7 @@
     width: 360px;
     border-radius: 4px;
     margin-left: 70px;
-    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.5`);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.5);
     float: left;
 }
 .container #register .register__container {
